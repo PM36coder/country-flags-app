@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "country": "Japan",
+      "capital": "Tokyo",
+      "population": "125.7 million",
+      "interestingFact": "Japan has more than 6,800 islands and the world's oldest monarchy."
+    },
+    {
+      "id": 2,
+      "country": "Brazil",
+      "capital": "Brasília",
+      "population": "214 million",
+      "interestingFact": "The Amazon rainforest in Brazil produces 20% of the world’s oxygen."
+    },
+    {
+      "id": 3,
+      "country": "Canada",
+      "capital": "Ottawa",
+      "population": "39 million",
+      "interestingFact": "Canada has the longest coastline of any country in the world."
+    },
+    {
+      "id": 4,
+      "country": "Egypt",
+      "capital": "Cairo",
+      "population": "111 million",
+      "interestingFact": "Egypt is home to the only remaining wonder of the ancient world — the Great Pyramid of Giza."
+    },
+    {
+      "id": 5,
+      "country": "India",
+      "capital": "New Delhi",
+      "population": "1.43 billion",
+      "interestingFact": "India is the birthplace of chess and yoga, and has over 19,500 languages spoken."
+    },
+    {
+      "id": 6,
+      "country": "Australia",
+      "capital": "Canberra",
+      "population": "26 million",
+      "interestingFact": "Australia is home to more kangaroos than humans."
+    },
+    {
+      "id": 7,
+      "country": "Italy",
+      "capital": "Rome",
+      "population": "58.9 million",
+      "interestingFact": "Italy has more UNESCO World Heritage sites than any other country."
+    },
+    {
+      "id": 8,
+      "country": "South Korea",
+      "capital": "Seoul",
+      "population": "51.7 million",
+      "interestingFact": "South Korea has the fastest average internet speed in the world."
+    },
+    {
+        "id": 9,
+        "country": "Norway",
+        "capital": "Oslo",
+        "population": "5.4 million",
+        "interestingFact": "Norway is powered almost entirely by renewable energy, mainly hydropower."
+      }
+      
+  ]
+  
